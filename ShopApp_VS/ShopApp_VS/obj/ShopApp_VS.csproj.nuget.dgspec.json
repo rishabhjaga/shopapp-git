@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\source\\repos\\ShopApp_VS\\ShopApp_VS\\ShopApp_VS.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\Shop app vs\\ShopApp_VS\\ShopApp_VS\\ShopApp_VS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\source\\repos\\ShopApp_VS\\ShopApp_VS\\ShopApp_VS.csproj": {
+    "C:\\Users\\Admin\\Desktop\\Shop app vs\\ShopApp_VS\\ShopApp_VS\\ShopApp_VS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\ShopApp_VS\\ShopApp_VS\\ShopApp_VS.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Shop app vs\\ShopApp_VS\\ShopApp_VS\\ShopApp_VS.csproj",
         "projectName": "ShopApp_VS",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\ShopApp_VS\\ShopApp_VS\\ShopApp_VS.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\Shop app vs\\ShopApp_VS\\ShopApp_VS\\ShopApp_VS.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\ShopApp_VS\\ShopApp_VS\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\Shop app vs\\ShopApp_VS\\ShopApp_VS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

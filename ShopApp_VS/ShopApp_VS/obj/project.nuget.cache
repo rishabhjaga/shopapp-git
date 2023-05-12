@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2b9nqv0oXDKAcw1zN3L4ajjC4+fBHOq9XF+MCUyG4j1cRybvmllVENGZBPkXl96ZJz15Y2G1Qkae9nHNxpiJoQ==",
+  "dgSpecHash": "Mymfnx/ij6Dx3ORWcrQi6gxW6goC3TML8TpPF2xXDiJFiz2/cLRSRNCBGUHjaFWKxnDSJJOcwEXGvDJZc+NyVg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\ShopApp_VS\\ShopApp_VS\\ShopApp_VS.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\Shop app vs\\ShopApp_VS\\ShopApp_VS\\ShopApp_VS.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore\\2.1.1\\microsoft.aspnetcore.2.1.1.nupkg.sha512",
